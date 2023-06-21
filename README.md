@@ -17,3 +17,8 @@ First we have the Back end named pipe architecture :
 Then we will discover the Socket Backend architecture:
 
 ![Socket Architecture](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/SocketArchitecture.jpg)
+
+The user will manipulate the application using a graphical interface written in python code distributed as follows:
+
+![Front End Architecture](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/FrontEndArchitecture.png)
+
