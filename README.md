@@ -14,4 +14,6 @@ First we have the Back end named pipe architecture :
 
 ![Named Pipe Architecture](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/NamedPipeArchitecture.jpg)
 
+Then we will discover the Socket Backend architecture:
 
+![Socket Architecture](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/SocketArchitecture.jpg)
