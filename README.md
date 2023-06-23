@@ -79,3 +79,15 @@ Then navigate to the project  :
 After installing it, you can now enjoy running and using the application throw this interafce:
 
 ![Front End](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/FrontEnd.png)
+
+## Additional Information
+
+For additionnal information especially for the code you can read the report in the report folder.
+
+## Conclusion
+
+The Interprocess-Communication-App is a client-server application that enables communication between processes using named pipes and TCP/IP sockets. It consists of a C backend and a Python frontend. The backend handles random number generation and exchange, while the frontend provides a user-friendly graphical interface.
+
+The application allows you to generate and exchange random numbers through an intuitive interface. It's a practical project showcasing interprocess communication and random number generation.
+
+In summary, the Interprocess-Communication-App facilitates interprocess communication using named pipes and sockets, with a C backend and Python frontend. Install the prerequisites, set up the project, and enjoy the user-friendly interface for random number exchange.
