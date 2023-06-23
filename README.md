@@ -22,3 +22,60 @@ The user will manipulate the application using a graphical interface written in 
 
 ![Front End Architecture](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/FrontEndArchitecture.png)
 
+## Installation & Usage
+
+### Prerequisites
+
+[![GCC Compiler](https://img.shields.io/badge/GCC%20Compiler-9.3.0-blue)](https://gcc.gnu.org/)
+
+    C Compiler: You need a C compiler to compile the backend code. One popular option is the GNU Compiler Collection (GCC).
+
+[![Python](https://img.shields.io/badge/Python-3.9.2-blue)](https://www.python.org/)
+
+    Python: The frontend interface is written in Python, so you need to have Python installed on your system.
+
+[![PythonPackages](https://img.shields.io/badge/Python_Packages-2.0-blue)](https://pypi.org/project/requests/)
+
+    Python Packages: The Python code relies on several packages, which can be installed using the pip package manager
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/john-doe/my-project)
+
+    Git: Git is a version control system used to clone the project repository and manage the code.
+
+![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
+
+    IDE or Text Editor: You can use any IDE or text editor of your choice to view and modify the code. Some popular options for C and Python development include Visual Studio Code, PyCharm, and Sublime Text.
+
+
+Ubuntu Operating System:
+Ubuntu is a popular Linux-based operating system known for its user-friendly interface and stability and you can use Version: Ubuntu 20.04 LTS
+
+### Installation
+
+To install and set up the Interprocess-Communication-App project, follow these steps:
+
+1- Clone this Repository using this commande:
+
+    git clone https://github.com/SBJ2000/Interprocess-Communication-App.git
+Then navigate to the project  :
+    
+    cd Interprocess-Communication-App
+
+2- Set up the Backend:
+    You need just to run the make file to compile the backend's files, using this commande:
+
+    Make
+
+3- Install the Python Dependencies:
+    
+    pip install tk
+
+4- Start the Frontend:
+
+    python Main_Gui_Python.py
+
+### Usage
+
+After installing it, you can now enjoy running and using the application throw this interafce:
+
+![Front End](https://github.com/SBJ2000/Interprocess-Communication-App/blob/main/Images/FrontEnd.png)
