@@ -47,6 +47,7 @@ The user will manipulate the application using a graphical interface written in 
     IDE or Text Editor: You can use any IDE or text editor of your choice to view and modify the code. Some popular options for C and Python development include Visual Studio Code, PyCharm, and Sublime Text.
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20LTS-orange)](https://ubuntu.com/)
+    
     Ubuntu Operating System: Ubuntu is a popular Linux-based operating system known for its user-friendly interface and stability and you can use Version: Ubuntu 20.04 LTS
 
 ### Installation
