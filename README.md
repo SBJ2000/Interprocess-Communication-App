@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Interprocess Communication App: This repository contains a client-server application for communication between processes using named pipes and TCP/IP sockets. The client generates a random number and sends it to the server, which responds with a that number of random numbers. The project includes backend code in C and a frontend interface in Python, providing a user-friendly graphical interface for easy interaction. Explore the code and learn about interprocess communication techniques and random number generation.
+Interprocess Communication App: This repository contains a client-server application for communication between processes using named pipes and TCP/IP sockets. The client generates a random number and sends it to the server, which responds with a that number of random numbers. The project includes backend code in C and a frontend interface in Python, providing a user-friendly graphical interface for easy interaction. Explore the code and learn about interprocess communication techniques and random number generation .
 
 ### Project Architecture :
 
